@@ -4,7 +4,7 @@
   "description": "",
   "main": "css-sanity.css",
   "scripts": {
-    "test": "return 0"
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
