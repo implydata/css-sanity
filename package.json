@@ -1,0 +1,22 @@
+{
+  "name": "@implydata/css-sanity",
+  "version": "0.0.0",
+  "description": "",
+  "main": "css-sanity.css",
+  "scripts": {
+    "test": "return 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/implydata/css-sanity.git"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/implydata/css-sanity/issues"
+  },
+  "homepage": "https://github.com/implydata/css-sanity#readme"
+}
