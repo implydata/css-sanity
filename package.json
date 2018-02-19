@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "description": "",
   "main": "css-sanity.css",
+  "files": [
+    "css-sanity.css",
+    "css-sanity.min.css"
+  ],
   "scripts": {
     "test": "exit 0"
   },
