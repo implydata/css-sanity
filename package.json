@@ -2,7 +2,6 @@
   "name": "@implydata/css-sanity",
   "version": "1.0.0",
   "description": "",
-  "main": "css-sanity.css",
   "files": [
     "css-sanity.css",
     "css-sanity.min.css"
