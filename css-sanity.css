@@ -72,7 +72,3 @@ button, input {
 text {
   cursor: default;
 }
-
-svg * {
-  fill: inherit;
-}
